@@ -44,6 +44,9 @@ spring:
     schemas: book_service
     user: root
     password: admin123
+  sleuth:
+    sampler:
+      probability: 1.0
 springdoc:
   show-actuator: true
   api-docs:
