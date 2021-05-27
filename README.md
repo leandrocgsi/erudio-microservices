@@ -1,4 +1,3 @@
-
 ![Forks](https://img.shields.io/github/forks/leandrocgsi/erudio-microservices)
 ![Stars](https://img.shields.io/github/stars/leandrocgsi/erudio-microservices)
 ![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/erudio-microservices)
