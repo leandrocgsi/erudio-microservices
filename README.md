@@ -25,4 +25,4 @@
 
 [![Image](https://github.com/leandrocgsi/RestWithSpringBootUdemy/blob/master/Images/docker_to_amazon_aws_deploy_apps_java_and_dot_net_with_travis_ci.png?raw=true "Docker to Amazon AWS Deploy Java & .NET Apps with Travis CI")](https://www.udemy.com/course/docker-to-amazon-aws-deploy-java-net-apps-with-travis-ci/?couponCode=DOCKER_IN_ACTION)
 
-[![Image](https://raw.githubusercontent.com/leandrocgsi/erudio-microservices/main/images/course_cover.png "Microservices from 0 to Google Cloud Platform with Spring Boot Kubernetes and Docker")](https://www.udemy.com/course/draft/3881188/?instructorPreviewMode=guest)
+[![Image](https://raw.githubusercontent.com/leandrocgsi/erudio-microservices/main/images/course_cover.png "Microservices from 0 to Google Cloud Platform with Spring Boot Kubernetes and Docker")](https://www.udemy.com/course/microservices-do-0-a-gcp-com-spring-boot-kubernetes-e-docker/?couponCode=MICRSRVCS_VTRNS_2021)
