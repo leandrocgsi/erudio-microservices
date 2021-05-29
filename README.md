@@ -1,6 +1,7 @@
 ![Forks](https://img.shields.io/github/forks/leandrocgsi/erudio-microservices)
 ![Stars](https://img.shields.io/github/stars/leandrocgsi/erudio-microservices)
 ![Last Commit](https://img.shields.io/github/last-commit/leandrocgsi/erudio-microservices)
+[![Continuous Integration with Github](https://github.com/leandrocgsi/erudio-microservices/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/leandrocgsi/erudio-microservices/actions/workflows/docker-publish.yml)
 
 # [Microservices do 0 à Google Cloud Platform com Spring Boot Kubernetes e Docker](https://www.udemy.com/course/microservices-do-0-a-gcp-com-spring-boot-kubernetes-e-docker/?couponCode=MICRSRVCS_VTRNS_2021)
 ### [Domine microsserviços com Spring Boot, Spring Cloud, Docker, Kubernetes e Google Cloud Platform](https://www.udemy.com/course/microservices-do-0-a-gcp-com-spring-boot-kubernetes-e-docker/?couponCode=MICRSRVCS_VTRNS_2021)
