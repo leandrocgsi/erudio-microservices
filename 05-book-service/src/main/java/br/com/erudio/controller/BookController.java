@@ -1,15 +1,19 @@
 package br.com.erudio.controller;
 
+import java.util.HashMap;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.env.Environment;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.client.RestTemplate;
 
 import br.com.erudio.model.Book;
 import br.com.erudio.proxy.CambioProxy;
 import br.com.erudio.repository.BookRepository;
+import br.com.erudio.response.Cambio;
 
 @RestController
 @RequestMapping("book-service")
@@ -41,8 +45,8 @@ public class BookController {
 		return book;
 	}
 	
-	/**@GetMapping(value = "/{id}/{currency}")	
-	public Book findBook(
+	@GetMapping(value = "/v1/{id}/{currency}")	
+	public Book findBookV1(
 			@PathVariable("id") Long id,
 			@PathVariable("currency") String currency
 			) {
@@ -67,5 +71,5 @@ public class BookController {
 		book.setEnvironment(port);
 		book.setPrice(cambio.getConvertedValue());
 		return book;
-	}*/
+	}
 }
